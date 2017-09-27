@@ -1,0 +1,10 @@
+{
+    "pathParameters": {
+      "category": "groceries"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
